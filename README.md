@@ -51,4 +51,4 @@ index.html
 
 ## License
 
-SIC � [Nova Vizija d.d.](http://www.nova.vizija.si)
+SIC [Nova Vizija d.d.](http://www.nova.vizija.si)
