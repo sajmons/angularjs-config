@@ -1,4 +1,4 @@
-# nv-oauth2-client
+# angularjs-config
 AngularJS configuration module for bringing server side configurations to AngularJS client application
 
 
