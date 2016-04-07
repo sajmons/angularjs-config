@@ -1,0 +1,19 @@
+{
+  "name": "angularjs-config",
+  "version": "0.1.0",
+  "description": "AngularJS module for bringing server side configurations to AngularJS client application",
+  "author": {
+    "email": "simon.sander@vizija.si",
+    "name": "Simon Šander"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sajmons/angularjs-config.git"
+  },
+  "readmeFilename": "README.md"
+}
